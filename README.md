@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="docs/branding/logo.svg" alt="Logo de Cyber-Conquest" width="128" height="128">
+</p>
+
 # Cyber-Conquest: Training Ground
 
 > *"No temas a las maquinas, teme a tu falta de conocimiento sobre ellas."*
